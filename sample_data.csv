@@ -1,0 +1,11 @@
+id,usia,pendidikan,pengalaman_kerja,produktifitas,gaji,status_pelatihan
+1,25,S1,2,75,4000000,Ya
+2,30,S2,5,88,6000000,Tidak
+3,28,SMA,3,70,3500000,Ya
+4,35,S1,8,92,7500000,Ya
+5,22,SMA,1,65,3000000,Tidak
+6,40,S3,12,95,9000000,Ya
+7,27,S1,4,80,5000000,Tidak
+8,32,S2,6,85,6500000,Ya
+9,29,S1,3,78,4200000,Ya
+10,38,SMA,10,90,7000000,Tidak
